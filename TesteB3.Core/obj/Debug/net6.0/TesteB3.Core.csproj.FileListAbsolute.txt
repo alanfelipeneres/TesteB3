@@ -1,0 +1,12 @@
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.csproj.AssemblyReference.cache
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.AssemblyInfoInputs.cache
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.AssemblyInfo.cs
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.csproj.CoreCompileInputs.cache
+D:\Estudos\TesteB3\TesteB3.Core\bin\Debug\net6.0\TesteB3.Core.deps.json
+D:\Estudos\TesteB3\TesteB3.Core\bin\Debug\net6.0\TesteB3.Core.dll
+D:\Estudos\TesteB3\TesteB3.Core\bin\Debug\net6.0\TesteB3.Core.pdb
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.dll
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\refint\TesteB3.Core.dll
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\TesteB3.Core.pdb
+D:\Estudos\TesteB3\TesteB3.Core\obj\Debug\net6.0\ref\TesteB3.Core.dll
